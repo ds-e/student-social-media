@@ -1,1 +1,1 @@
-# IFT2905-Devoir3
+Travail d'équipe pour un devoir du cours IFT2905
