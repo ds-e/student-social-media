@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">IFT2905-Devoir3</string>
+    <string name="app_logo">logo</string>
+    <string name="app_email">\t Email</string>
+    <string name="app_username">\t Username</string>
+    <string name="app_login">Login</string>
+    <string name="app_register">Register</string>
+    <string name="app_password">\t Password</string>
+    <string name="app_login_forgot"><u>Forgot Password?</u></string>
+    <string name="app_login_create"><u>Don\'t have an account? Register now!</u></string>
+    <string name="app_getcode_forgot">Forgot your Password?</string>
+    <string name="app_getcode_instruction">Don\'t worry! Just fill in your email and we\'ll send you a code to reset your password.</string>
+    <string name="app_getcode_reset">Reset Password</string>
+    <string name="explore_title">Find new people by :</string>
+    <string name="explore_nameBtnText">Name</string>
+    <string name="explore_groupsBtnText">Groups</string>
+    <string name="explore_coursesBtnText">Courses</string>
+    <string name="explore_interestsBtnText">Interests</string>
+    <string name="closeBtnText">Close</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="app_search">search</string>
+    <string name="interest_add">interest/course</string>
+    <string name="interest_and_course">Your interests and courses</string>
+    <string name="app_password_desc">
+        <ul><li><i>At least 1 digit</i></li>\n
+            <li><i>At least 1 lowercase letter</i></li>\n
+            <li><i>At least 1 uppercase letter</i></li>\n
+            <li><i>At least 1 special character</i></li>\n
+            <li><i>At least 6 characters</i></li>
+        </ul>
+    </string>
+    <string name="app_home">Welcome</string>
+    <string name="app_home_search">Find a Profile (Group or User)</string>
+    <string name="app_home_btn">Welcome </string>
+    <string name="app_add_group">Add a Group</string>
+    <string name="app_add_title">Create your own group</string>
+    <string name="app_add_form1">Group Name</string>
+    <string name="app_add_form2">Category of Group</string>
+    <string name="app_add_form3">Related course</string>
+    <string name="app_add_form4">Find people to add</string>
+    <string name="app_sendcode">Function not implemented</string>
+    <string name="app_logout">Log out</string>
+    <string name="app_frag_explore">Explore</string>
+    <string name="app_frag_editprofile">Edit Profile</string>
+    <string name="app_frag_home">Home</string>
+    <string name="app_frag_message">Messages</string>
+    <string name="app_frag_notifications">Notifications</string>
+    <string name="app_profile_save">Save changes</string>
+    <string name="app_profile_groups">Groups:</string>
+    <string name="app_profile_members">Members:</string>
+    <string name="app_profile_view">view</string>
+    <string name="app_notif_accept">accept</string>
+</resources>
